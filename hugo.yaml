@@ -43,7 +43,7 @@ params:
     title: "Hello There!" # optional default will be site title
     subtitle: "Hi, I’m Melson Mascarenhas – an R&D Network Engineer by profession and a tech enthusiast. This blog is my little corner of the internet where I tinker, break, remake and learning from each project along the way😀."
     imageUrl: "https://cdn.fosstodon.org/accounts/avatars/113/680/235/273/585/758/original/549b7900dc9600ae.jpeg" # optional
-    imageTitle: "<title of image as alt>" # optional
+    imageTitle: "Melson" # optional
     imageWidth: 150 # custom size
     imageHeight: 150 # custom size
     

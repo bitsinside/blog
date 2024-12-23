@@ -10,14 +10,14 @@ params:
   DateFormat: "January 2, 2006"
   ShowReadingTime: true
   ShowCodeCopyButtons: true
-  author: Me
+  author: Melson
   
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -41,9 +41,9 @@ params:
   profileMode:
     enabled: true
     title: "Hello There!" # optional default will be site title
-    subtitle: "Hi, I’m Melson Mascarenhas – a R&D Network Engineer by profession and a tech enthusiast. This blog is my little corner of the internet where I tinker, break, and remake, sharing my DIY projects, and the art of fusing networking with coding to create something awesome 🤓."
+    subtitle: "Hi, I’m Melson Mascarenhas – an R&D Network Engineer by profession and a tech enthusiast. This blog is my little corner of the internet where I tinker, break, remake and learning from each project along the way😀."
     imageUrl: "https://cdn.fosstodon.org/accounts/avatars/113/680/235/273/585/758/original/549b7900dc9600ae.jpeg" # optional
-    imageTitle: "<title of image as alt>" # optional
+    imageTitle: "Melson" # optional
     imageWidth: 150 # custom size
     imageHeight: 150 # custom size
     

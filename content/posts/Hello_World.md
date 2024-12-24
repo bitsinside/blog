@@ -9,7 +9,7 @@ slug: "Helloworld"
 
 Since starting my homelab journey in December of this year, I've been attempting to self-host certain services that I find useful in my daily life.
 
-Here I wanto to share the list of service that I am self host.
+Here I want to share the list of service that I am self host.
 
 ## My mini homelab
 
